@@ -1,0 +1,432 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Legrand Orange Book
+% LaTeX Template
+% Version 2.1.1 (14/2/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Mathias Legrand (legrand.mathias@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Compiling this template:
+% This template uses biber for its bibliography and makeindex for its index.
+% When you first open the template, compile it from the command line with the 
+% commands below to make sure your LaTeX distribution is configured correctly:
+%
+% 1) pdflatex main
+% 2) makeindex main.idx -s StyleInd.ist
+% 3) biber main
+% 4) pdflatex main x 2
+%
+% After this, when you wish to update the bibliography/index use the appropriate
+% command above and make sure to compile with pdflatex several times 
+% afterwards to propagate your changes to the document.
+%
+% This template also uses a number of packages which may need to be
+% updated to the newest versions for the template to compile. It is strongly
+% recommended you update your LaTeX distribution if you have any
+% compilation errors.
+%
+% Important note:
+% Chapter heading images should have a 2:1 width:height ratio,
+% e.g. 920px width and 460px height.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,fleqn]{book} % Default font size and left-justified equations
+
+%----------------------------------------------------------------------------------------
+
+\input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begingroup
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate [below=12cm] (midpoint) at (current page.north);
+\node at (current page.north west)
+{\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{background}}; % Background image
+\draw[anchor=north] (midpoint) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering Química para Segundo de Bachillerato\\[15pt] % Book title
+{\Large Apuntes para uso en clase}\\[20pt] % Subtitle
+{\huge Javier Perán Jódar}}}; % Author name
+\end{tikzpicture}};
+\end{tikzpicture}
+\vfill
+\endgroup
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+~\vfill
+\thispagestyle{empty}
+
+\noindent Copyright \copyright\ 2013 John Smith\\ % Copyright notice
+
+\noindent \textsc{Published by Publisher}\\ % Publisher
+
+\noindent \textsc{book-website.com}\\ % URL
+
+\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the ``License''). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\ % License information
+
+\noindent \textit{First printing, March 2013} % Printing/edition date
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\usechapterimagefalse % If you don't want to include a chapter image, use this to toggle images off - it can be enabled later with \usechapterimagetrue
+
+\chapterimage{chapter_head_1.pdf} % Table of contents heading image
+
+\pagestyle{empty} % No headers
+
+\tableofcontents % Print the table of contents itself
+
+\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+
+\pagestyle{fancy} % Print headers again
+
+%----------------------------------------------------------------------------------------
+%	PART
+%----------------------------------------------------------------------------------------
+
+\part{Formulación Química}
+
+%----------------------------------------------------------------------------------------
+%	CHAPTER 1
+%----------------------------------------------------------------------------------------
+
+\chapterimage{chapter_head_2.pdf} % Chapter heading image
+
+\chapter{Formulación Inorgánica}
+
+\section{Introducción}\index{Paragraphs of Text}
+En el desarrollo de la nomenclatura química han surgido varios sistemas para la construcción de los nombres de los elementos y compuestos químicos. Cada uno de los sistemas tiene su propio conjunto de reglas. Algunos sistemas son de aplicación general; en cambio, otros han surgido de la necesidad de usar sistemas más especializados en áreas determinadas de la química.\\
+En concreto, en lo referente a la química inorgánica, tres son los sistemas principales de nomenclatura: la nomenclatura de composición, la de sustitución y la de adición.\\
+La nomenclatura de adición es quizás la que puede usarse de forma más generalizada en química inorgánica. La nomenclatura de sustitución puede usarse en determinadas áreas. Estos dos sistemas requieren el conocimiento de la estructura de las especies químicas que van a ser nombradas. En cambio, la nomenclatura de composición puede usarse cuando no es necesario aportar información sobre la estructura de las sustancias, o no se conoce, y sólo se indica la estequiometría o composición.
+\section{Sistemas de Nomenclatura}
+En el desarrollo de la nomenclatura química han surgido varios sistemas para la construcción de los nombres de los elementos y compuestos químicos. Cada uno de los sistemas tiene su propio conjunto de reglas.
+Algunos sistemas son de aplicación general; en cambio, otros han surgido de la necesidad de usar sistemas más especializados en áreas determinadas de la química.
+En concreto, en lo referente a la química inorgánica, tres son los sistemas principales de nomenclatura: la nomenclatura de composición, la de sustitución y la de adición.
+La nomenclatura de adición es quizás la que puede usarse de forma más generalizada en química inorgánica. La nomenclatura de sustitución puede usarse en determinadas áreas. Estos dos sistemas requieren el conocimiento de la estructura de las especies químicas que van a ser nombradas. En cambio, la nomenclatura de composición puede usarse cuando no es necesario aportar información sobre la estructura de las sustancias, o no se conoce, y sólo se indica la estequiometría o composición.
+\subsection{Nomenclatura de Composición}
+Esta nomenclatura está basada en la composición no en la estructura. Por ello, puede ser la única forma de nombrar un compuesto si no se dispone de información estructural.\\
+El tipo más simple de este tipo de nomenclatura es la llamada estequiométrica. En ella se indica la proporción de los constituyentes a partir de la fórmula empírica o la molecular. La proporción de los elementos o constituyentes puede indicarse de varias formas:\\
+\begin{itemize}
+	\item Utilizando prefijos multiplicativos (Método Sistemático). 
+	\item Utilizando números de oxidación de los elementos (Sistema de Stock, mediante números romanos). 
+	\item Utilizando la carga de los iones (mediante los números de Ewens-Basset, números arábigos seguido del signo correspondiente)
+\end{itemize}
+\subsection{Nomenclatura de Sustitución}
+De forma general, en esta nomenclatura se parte del nombre de unos compuestos denominados Hidruros Parentales y se indica, junto con los prefijos de cantidad correspondiente, el nombre de los elementos o grupos que sustituyen a los hidrógenos. Esta nomenclatura es la usada generalmente para nombrar los compuestos orgánicos.
+\subsection{Nomenclatura de Adición}
+Esta nomenclatura se desarrolló originalmente para nombrar los compuestos de coordinación. Así, se considera que el compuesto consta de un átomo central o átomos centrales con ligandos asociados, cuyo número se indica con los prefijos multiplicativos correspondientes.\\
+Los tres sistemas de nomenclatura pueden proporcionar nombres diferentes, pero sin  ambigüedades, para un compuesto dado. La elección entre los tres sistemas depende de la clase de compuesto inorgánico que se trate y el grado de detalle que se desea comunicar.
+\section{Tipos de Nomenclatura más empleados en Química Orgánica}
+A continuación pasaremos a detallar los tipos de nomenclatura mas empleados en Química Inorgánica, independientemente que estos sistemas sean de Composición, Sustitución o Adición\\
+\begin{description}
+	\item [Nomenclatura de Stock] Se nombra el compuesto seguido de la valencia del elemento central entre paréntesis y en números romanos, si hiciera falta.
+	\item[Nomenclatura Sistemática] Se nombra la fórmula del compuesto químico utilizando prefijos para nombrar los subíndices de la fórmula. Dichos prefijos son:\\
+	\begin{table}[h!]
+		\centering
+		\label{tab:nomsist}
+		\begin{tabular}{c c|c c}
+			Prefijo&Cantidad&Prefijo&Cantidad\\ \hline
+			mono-&1&hexa-&6\\ 
+			di-&2&hepta-&7\\ 
+			tri-&3&octa-&8\\ 
+			tetra-&4&nona-&9\\
+			penta-&5&deca-&10\\ \hline
+		\end{tabular}
+		\caption{Prefijos Nomenclatura Sistemática}
+	\end{table}
+	\item[Noemnclatura Tradicional] La Nomenclatura Tradicional es un tipo de nomenclatura en desuso, aunque se sigue utilizando masivamente en Oxoácidos, Oxisales y Oxisales Ácidas. Consiste en nombrar el compuesto usando una serie de prefijos y sufijos para indicar la valencia del elemento central. Dichos Prefijos y Sufijos son:
+	\begin{table}[h!]
+		\centering
+		\label{tab:nomtrad}
+		\begin{tabular}{c}
+			Prefijos y Sufijos\\ \hline
+			Hipo- -oso\\
+			-oso\\
+			-ico\\
+			Per- -ico\\ \hline
+		\end{tabular}
+	\caption{Prefijos y Sufijos de la Nomenclatura Tradicional}
+	\end{table}
+	\item[Nomenclatura de Adición] La Nomenclatura de Adición consiste en nombrar los compuestos como adición de iones. Se utiliza sobre todo en Oxoácidos, Oxisales y Oxisales Ácidas
+	
+\section{Número de Oxidación y Valencia}
+	Se denomina valencia a la capacidad combinatoria que tiene un elemento cuando forma compuestos químicos. Normalmente las valencias se comparten entre familias de elementos, aunque  hay excepciones. El número de oxidación es igual que la valencia pero con signo menos cuando el elemento actúa como anión y positivo cuando actúa como catión.
+\section{Sustancias Binarias}
+	Se definen las sustancias binarias como aquellas formadas por dos tipos de elementos. Son sustancias binarias los óxidos, hidruros y sales binarias
+	
+	
+\end{description}
+
+%------------------------------------------------
+
+\section{Citation}\index{Citation}
+
+This statement requires citation \cite{book_key}; this one is more specific \cite[122]{article_key}.
+
+%------------------------------------------------
+
+\section{Lists}\index{Lists}
+
+Lists are useful to present information in a concise and/or ordered way\footnote{Footnote example...}.
+
+\subsection{Numbered List}\index{Lists!Numbered List}
+
+\begin{enumerate}
+\item The first item
+\item The second item
+\item The third item
+\end{enumerate}
+
+\subsection{Bullet Points}\index{Lists!Bullet Points}
+
+\begin{itemize}
+\item The first item
+\item The second item
+\item The third item
+\end{itemize}
+
+\subsection{Descriptions and Definitions}\index{Lists!Descriptions and Definitions}
+
+\begin{description}
+\item[Name] Description
+\item[Word] Definition
+\item[Comment] Elaboration
+\end{description}
+
+%----------------------------------------------------------------------------------------
+%	CHAPTER 2
+%----------------------------------------------------------------------------------------
+
+\chapter{In-text Elements}
+
+\section{Theorems}\index{Theorems}
+
+This is an example of theorems.
+
+\subsection{Several equations}\index{Theorems!Several Equations}
+This is a theorem consisting of several equations.
+
+\begin{theorem}[Name of the theorem]
+In $E=\mathbb{R}^n$ all norms are equivalent. It has the properties:
+\begin{align}
+& \big| ||\mathbf{x}|| - ||\mathbf{y}|| \big|\leq || \mathbf{x}- \mathbf{y}||\\
+&  ||\sum_{i=1}^n\mathbf{x}_i||\leq \sum_{i=1}^n||\mathbf{x}_i||\quad\text{where $n$ is a finite integer}
+\end{align}
+\end{theorem}
+
+\subsection{Single Line}\index{Theorems!Single Line}
+This is a theorem consisting of just one line.
+
+\begin{theorem}
+A set $\mathcal{D}(G)$ in dense in $L^2(G)$, $|\cdot|_0$. 
+\end{theorem}
+
+%------------------------------------------------
+
+\section{Definitions}\index{Definitions}
+
+This is an example of a definition. A definition could be mathematical or it could define a concept.
+
+\begin{definition}[Definition name]
+Given a vector space $E$, a norm on $E$ is an application, denoted $||\cdot||$, $E$ in $\mathbb{R}^+=[0,+\infty[$ such that:
+\begin{align}
+& ||\mathbf{x}||=0\ \Rightarrow\ \mathbf{x}=\mathbf{0}\\
+& ||\lambda \mathbf{x}||=|\lambda|\cdot ||\mathbf{x}||\\
+& ||\mathbf{x}+\mathbf{y}||\leq ||\mathbf{x}||+||\mathbf{y}||
+\end{align}
+\end{definition}
+
+%------------------------------------------------
+
+\section{Notations}\index{Notations}
+
+\begin{notation}
+Given an open subset $G$ of $\mathbb{R}^n$, the set of functions $\varphi$ are:
+\begin{enumerate}
+\item Bounded support $G$;
+\item Infinitely differentiable;
+\end{enumerate}
+a vector space is denoted by $\mathcal{D}(G)$. 
+\end{notation}
+
+%------------------------------------------------
+
+\section{Remarks}\index{Remarks}
+
+This is an example of a remark.
+
+\begin{remark}
+The concepts presented here are now in conventional employment in mathematics. Vector spaces are taken over the field $\mathbb{K}=\mathbb{R}$, however, established properties are easily extended to $\mathbb{K}=\mathbb{C}$.
+\end{remark}
+
+%------------------------------------------------
+
+\section{Corollaries}\index{Corollaries}
+
+This is an example of a corollary.
+
+\begin{corollary}[Corollary name]
+The concepts presented here are now in conventional employment in mathematics. Vector spaces are taken over the field $\mathbb{K}=\mathbb{R}$, however, established properties are easily extended to $\mathbb{K}=\mathbb{C}$.
+\end{corollary}
+
+%------------------------------------------------
+
+\section{Propositions}\index{Propositions}
+
+This is an example of propositions.
+
+\subsection{Several equations}\index{Propositions!Several Equations}
+
+\begin{proposition}[Proposition name]
+It has the properties:
+\begin{align}
+& \big| ||\mathbf{x}|| - ||\mathbf{y}|| \big|\leq || \mathbf{x}- \mathbf{y}||\\
+&  ||\sum_{i=1}^n\mathbf{x}_i||\leq \sum_{i=1}^n||\mathbf{x}_i||\quad\text{where $n$ is a finite integer}
+\end{align}
+\end{proposition}
+
+\subsection{Single Line}\index{Propositions!Single Line}
+
+\begin{proposition} 
+Let $f,g\in L^2(G)$; if $\forall \varphi\in\mathcal{D}(G)$, $(f,\varphi)_0=(g,\varphi)_0$ then $f = g$. 
+\end{proposition}
+
+%------------------------------------------------
+
+\section{Examples}\index{Examples}
+
+This is an example of examples.
+
+\subsection{Equation and Text}\index{Examples!Equation and Text}
+
+\begin{example}
+Let $G=\{x\in\mathbb{R}^2:|x|<3\}$ and denoted by: $x^0=(1,1)$; consider the function:
+\begin{equation}
+f(x)=\left\{\begin{aligned} & \mathrm{e}^{|x|} & & \text{si $|x-x^0|\leq 1/2$}\\
+& 0 & & \text{si $|x-x^0|> 1/2$}\end{aligned}\right.
+\end{equation}
+The function $f$ has bounded support, we can take $A=\{x\in\mathbb{R}^2:|x-x^0|\leq 1/2+\epsilon\}$ for all $\epsilon\in\intoo{0}{5/2-\sqrt{2}}$.
+\end{example}
+
+\subsection{Paragraph of Text}\index{Examples!Paragraph of Text}
+
+\begin{example}[Example name]
+\lipsum[2]
+\end{example}
+
+%------------------------------------------------
+
+\section{Exercises}\index{Exercises}
+
+This is an example of an exercise.
+
+\begin{exercise}
+This is a good place to ask a question to test learning progress or further cement ideas into students' minds.
+\end{exercise}
+
+%------------------------------------------------
+
+\section{Problems}\index{Problems}
+
+\begin{problem}
+What is the average airspeed velocity of an unladen swallow?
+\end{problem}
+
+%------------------------------------------------
+
+\section{Vocabulary}\index{Vocabulary}
+
+Define a word to improve a students' vocabulary.
+
+\begin{vocabulary}[Word]
+Definition of word.
+\end{vocabulary}
+
+%----------------------------------------------------------------------------------------
+%	PART
+%----------------------------------------------------------------------------------------
+
+\part{Part Two}
+
+%----------------------------------------------------------------------------------------
+%	CHAPTER 3
+%----------------------------------------------------------------------------------------
+
+\chapterimage{chapter_head_1.pdf} % Chapter heading image
+
+\chapter{Presenting Information}
+
+\section{Table}\index{Table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l l l}
+\toprule
+\textbf{Treatments} & \textbf{Response 1} & \textbf{Response 2}\\
+\midrule
+Treatment 1 & 0.0003262 & 0.562 \\
+Treatment 2 & 0.0015681 & 0.910 \\
+Treatment 3 & 0.0009271 & 0.296 \\
+\bottomrule
+\end{tabular}
+\caption{Table caption}
+\end{table}
+
+%------------------------------------------------
+
+\section{Figure}\index{Figure}
+
+\begin{figure}[h]
+\centering\includegraphics[scale=0.5]{placeholder}
+\caption{Figure caption}
+\end{figure}
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+%\chapter*{Bibliography}
+%\addcontentsline{toc}{chapter}{\textcolor{ocre}{Bibliography}}
+%\section*{Books}
+%\addcontentsline{toc}{section}{Books}
+%\printbibliography[heading=bibempty,type=book]
+%\section*{Articles}
+%\addcontentsline{toc}{section}{Articles}
+%\printbibliography[heading=bibempty,type=article]
+
+%----------------------------------------------------------------------------------------
+%	INDEX
+%----------------------------------------------------------------------------------------
+
+\cleardoublepage
+\phantomsection
+\setlength{\columnsep}{0.75cm}
+\addcontentsline{toc}{chapter}{\textcolor{ocre}{Index}}
+\printindex
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
