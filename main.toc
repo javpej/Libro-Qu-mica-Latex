@@ -38,7 +38,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.8}Hidr\IeC {\'a}cidos}{11}{subsection.1.5.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Sustancias Ternarias}{12}{section.1.6}
+\contentsline {section}{\numberline {1.6}Sustancias Ternarias (I): Hidr\IeC {\'o}xidos Met\IeC {\'a}licos y Oxo\IeC {\'a}cidos}{12}{section.1.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.6.1}Hidr\IeC {\'o}xidos Met\IeC {\'a}licos}{12}{subsection.1.6.1}
 \defcounter {refsection}{0}\relax 
@@ -50,15 +50,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.7.1}Cationes Monoat\IeC {\'o}micos}{15}{subsection.1.7.1}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Cationes Homopoliat\IeC {\'o}micos}{15}{subsection.1.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.3}Oxoaniones}{15}{subsection.1.7.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.8}Citation}{15}{section.1.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.9}Lists}{15}{section.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.9.1}Numbered List}{15}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.1}Numbered List}{16}{subsection.1.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.9.2}Bullet Points}{15}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.2}Bullet Points}{16}{subsection.1.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.9.3}Descriptions and Definitions}{15}{subsection.1.9.3}
+\contentsline {subsection}{\numberline {1.9.3}Descriptions and Definitions}{16}{subsection.1.9.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}In-text Elements}{17}{chapter.2}
 \defcounter {refsection}{0}\relax 
