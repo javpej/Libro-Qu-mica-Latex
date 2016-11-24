@@ -24,7 +24,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.1}Formulaci\IeC {\'o}n General de Sustancias Binarias}{11}{subsection.1.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.2}\IeC {\'O}xidos}{11}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.2}\IeC {\'O}xidos}{12}{subsection.1.5.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.3}Per\IeC {\'o}xidos}{12}{subsection.1.5.3}
 \defcounter {refsection}{0}\relax 
@@ -42,7 +42,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.6.1}Hidr\IeC {\'o}xidos Met\IeC {\'a}licos}{14}{subsection.1.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.6.2}Oxo\IeC {\'a}cidos}{14}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.2}Oxo\IeC {\'a}cidos}{15}{subsection.1.6.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.6.3}Oxo\IeC {\'a}cidos de Inter\IeC {\'e}s Especial}{16}{subsection.1.6.3}
 \defcounter {refsection}{0}\relax 
