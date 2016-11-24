@@ -58,57 +58,59 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.9}Sustancias Cuaternarias: Oxisales \IeC {\'A}cidas}{17}{section.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.10}Citation}{18}{section.1.10}
+\contentsline {section}{\numberline {1.10}Problemas}{19}{section.1.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.11}Lists}{18}{section.1.11}
+\contentsline {section}{\numberline {1.11}Citation}{19}{section.1.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.11.1}Numbered List}{18}{subsection.1.11.1}
+\contentsline {section}{\numberline {1.12}Lists}{19}{section.1.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.11.2}Bullet Points}{18}{subsection.1.11.2}
+\contentsline {subsection}{\numberline {1.12.1}Numbered List}{19}{subsection.1.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.11.3}Descriptions and Definitions}{18}{subsection.1.11.3}
+\contentsline {subsection}{\numberline {1.12.2}Bullet Points}{20}{subsection.1.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}In-text Elements}{19}{chapter.2}
+\contentsline {subsection}{\numberline {1.12.3}Descriptions and Definitions}{20}{subsection.1.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Theorems}{19}{section.2.1}
+\contentsline {chapter}{\numberline {2}In-text Elements}{21}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Several equations}{19}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.1}Theorems}{21}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Single Line}{19}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.1}Several equations}{21}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Definitions}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.1.2}Single Line}{21}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Notations}{20}{section.2.3}
+\contentsline {section}{\numberline {2.2}Definitions}{21}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Remarks}{20}{section.2.4}
+\contentsline {section}{\numberline {2.3}Notations}{22}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Corollaries}{20}{section.2.5}
+\contentsline {section}{\numberline {2.4}Remarks}{22}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Propositions}{20}{section.2.6}
+\contentsline {section}{\numberline {2.5}Corollaries}{22}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}Several equations}{20}{subsection.2.6.1}
+\contentsline {section}{\numberline {2.6}Propositions}{22}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}Single Line}{20}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.1}Several equations}{22}{subsection.2.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Examples}{20}{section.2.7}
+\contentsline {subsection}{\numberline {2.6.2}Single Line}{22}{subsection.2.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}Equation and Text}{21}{subsection.2.7.1}
+\contentsline {section}{\numberline {2.7}Examples}{22}{section.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.2}Paragraph of Text}{21}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.1}Equation and Text}{23}{subsection.2.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Exercises}{21}{section.2.8}
+\contentsline {subsection}{\numberline {2.7.2}Paragraph of Text}{23}{subsection.2.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.9}Problems}{21}{section.2.9}
+\contentsline {section}{\numberline {2.8}Exercises}{23}{section.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.10}Vocabulary}{21}{section.2.10}
+\contentsline {section}{\numberline {2.9}Problems}{23}{section.2.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{23}{part.2}
+\contentsline {section}{\numberline {2.10}Vocabulary}{23}{section.2.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Presenting Information}{25}{chapter.3}
+\contentsline {part}{\@mypartnumtocformat {II}{Part Two}}{25}{part.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Table}{25}{section.3.1}
+\contentsline {chapter}{\numberline {3}Presenting Information}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Figure}{25}{section.3.2}
+\contentsline {section}{\numberline {3.1}Table}{27}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{27}{section*.2}
+\contentsline {section}{\numberline {3.2}Figure}{27}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{29}{section*.2}
 \contentsfinish 
