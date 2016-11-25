@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  25 NOV 2016 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  25 NOV 2016 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2129,7 +2129,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 1.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 1.
-<Pictures/chapter_head_2.pdf, id=330, 3581.38pt x 1790.69pt>
+<Pictures/chapter_head_2.pdf, id=344, 3581.38pt x 1790.69pt>
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 
 <use Pictures/chapter_head_2.pdf>
@@ -2925,21 +2925,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
  []
 
-<Pictures/desarrollada.jpg, id=446, 127.47626pt x 62.2325pt>
+<Pictures/desarrollada.jpg, id=460, 127.47626pt x 62.2325pt>
 File: Pictures/desarrollada.jpg Graphic file (type jpg)
 
 <use Pictures/desarrollada.jpg>
 Package pdftex.def Info: Pictures/desarrollada.jpg used on input line 35.
 (pdftex.def)             Requested size: 127.47594pt x 62.23235pt.
 
-<Pictures/semides.jpg, id=447, 92.345pt x 22.0825pt>
+<Pictures/semides.jpg, id=461, 92.345pt x 22.0825pt>
 File: Pictures/semides.jpg Graphic file (type jpg)
 
 <use Pictures/semides.jpg>
 Package pdftex.def Info: Pictures/semides.jpg used on input line 40.
 (pdftex.def)             Requested size: 92.34476pt x 22.08243pt.
 
-<Pictures/lineangul.jpg, id=448, 109.40875pt x 55.20625pt>
+<Pictures/lineangul.jpg, id=462, 109.40875pt x 55.20625pt>
 File: Pictures/lineangul.jpg Graphic file (type jpg)
 
 <use Pictures/lineangul.jpg>
@@ -3004,13 +3004,13 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 65.
 
-<Pictures/butano.jpg, id=455, 123.46124pt x 22.0825pt>
+<Pictures/butano.jpg, id=469, 123.46124pt x 22.0825pt>
 File: Pictures/butano.jpg Graphic file (type jpg)
 
 <use Pictures/butano.jpg>
 Package pdftex.def Info: Pictures/butano.jpg used on input line 73.
 (pdftex.def)             Requested size: 123.46092pt x 22.08243pt.
- <Pictures/hexano.jpg, id=456, 184.69pt x 21.07875pt>
+ <Pictures/hexano.jpg, id=470, 184.69pt x 21.07875pt>
 File: Pictures/hexano.jpg Graphic file (type jpg)
 
 <use Pictures/hexano.jpg>
@@ -3041,7 +3041,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 92.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 92.
-<Pictures/ciclopropano.jpg, id=457, 36.135pt x 33.12375pt>
+<Pictures/ciclopropano.jpg, id=471, 36.135pt x 33.12375pt>
 File: Pictures/ciclopropano.jpg Graphic file (type jpg)
 
 <use Pictures/ciclopropano.jpg>
@@ -3052,7 +3052,7 @@ Underfull \hbox (badness 5954) in paragraph at lines 98--98
 []\T1/ptm/m/n/9 (+20) (a) |Ci-clo-
  []
 
-<Pictures/ciclopentano.jpg, id=458, 41.15375pt x 40.15pt>
+<Pictures/ciclopentano.jpg, id=472, 41.15375pt x 40.15pt>
 File: Pictures/ciclopentano.jpg Graphic file (type jpg)
 
 <use Pictures/ciclopentano.jpg>
@@ -3063,7 +3063,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []\T1/ptm/m/n/9 (+20) (b) |Ci-clo-
  []
 
-<Pictures/ciclohexano.jpg, id=459, 38.1425pt x 44.165pt>
+<Pictures/ciclohexano.jpg, id=473, 38.1425pt x 44.165pt>
 File: Pictures/ciclohexano.jpg Graphic file (type jpg)
 
 <use Pictures/ciclohexano.jpg>
@@ -3116,7 +3116,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.2.2
                    \relax 
 l.112 	\subfloat
                 [Metilpropano]{
-<Pictures/metilpropano.jpg, id=470, 88.33pt x 37.13875pt>
+<Pictures/metilpropano.jpg, id=484, 88.33pt x 37.13875pt>
 File: Pictures/metilpropano.jpg Graphic file (type jpg)
 
 <use Pictures/metilpropano.jpg>
@@ -3128,14 +3128,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{subfigure.2.2
                    \relax 
 l.115 	\subfloat
                 [Butano]{
-<Pictures/butano2.jpg, id=471, 89.33376pt x 38.1425pt>
+<Pictures/butano2.jpg, id=485, 89.33376pt x 38.1425pt>
 File: Pictures/butano2.jpg Graphic file (type jpg)
 
 <use Pictures/butano2.jpg>
 Package pdftex.def Info: Pictures/butano2.jpg used on input line 116.
 (pdftex.def)             Requested size: 89.33353pt x 38.1424pt.
 
-<Pictures/metilpentano.jpg, id=472, 148.555pt x 43.16125pt>
+<Pictures/metilpentano.jpg, id=486, 148.555pt x 43.16125pt>
 File: Pictures/metilpentano.jpg Graphic file (type jpg)
 
 <use Pictures/metilpentano.jpg>
@@ -3146,7 +3146,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-<Pictures/3metilpentano.jpg, id=473, 107.40125pt x 39.14626pt>
+<Pictures/3metilpentano.jpg, id=487, 107.40125pt x 39.14626pt>
 File: Pictures/3metilpentano.jpg Graphic file (type jpg)
 
 <use Pictures/3metilpentano.jpg>
@@ -3156,7 +3156,7 @@ Package pdftex.def Info: Pictures/3metilpentano.jpg used on input line 135.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/2metilpentano.jpg, id=474, 139.52126pt x 38.1425pt>
+<Pictures/2metilpentano.jpg, id=488, 139.52126pt x 38.1425pt>
 File: Pictures/2metilpentano.jpg Graphic file (type jpg)
 
 <use Pictures/2metilpentano.jpg>
@@ -3205,28 +3205,28 @@ l.146 	\item S
               i hubiese más de una cadena secundaria con el mismo número d...
  <./Pictures/ciclopropano.jpg> <./Pictures/ciclopentano.jpg> <./Pictures/cicloh
 exano.jpg> <./Pictures/metilpropano.jpg> <./Pictures/butano2.jpg> <./Pictures/m
-etilpentano.jpg>] <Pictures/trimetilbutano.jpg, id=485, 118.4425pt x 68.255pt>
+etilpentano.jpg>] <Pictures/trimetilbutano.jpg, id=499, 118.4425pt x 68.255pt>
 File: Pictures/trimetilbutano.jpg Graphic file (type jpg)
 
 <use Pictures/trimetilbutano.jpg>
 Package pdftex.def Info: Pictures/trimetilbutano.jpg used on input line 149.
 (pdftex.def)             Requested size: 118.4422pt x 68.25482pt.
 
-<Pictures/metiletilheptano.jpg, id=486, 200.75pt x 86.3225pt>
+<Pictures/metiletilheptano.jpg, id=500, 200.75pt x 86.3225pt>
 File: Pictures/metiletilheptano.jpg Graphic file (type jpg)
 
 <use Pictures/metiletilheptano.jpg>
 Package pdftex.def Info: Pictures/metiletilheptano.jpg used on input line 156.
 (pdftex.def)             Requested size: 200.7495pt x 86.32227pt.
 
-<Pictures/metiletilhexano.jpg, id=487, 178.6675pt x 73.27374pt>
+<Pictures/metiletilhexano.jpg, id=501, 178.6675pt x 73.27374pt>
 File: Pictures/metiletilhexano.jpg Graphic file (type jpg)
 
 <use Pictures/metiletilhexano.jpg>
 Package pdftex.def Info: Pictures/metiletilhexano.jpg used on input line 163.
 (pdftex.def)             Requested size: 178.66705pt x 73.27354pt.
 
-<Pictures/eteno.jpg, id=488, 58.2175pt x 19.07124pt>
+<Pictures/eteno.jpg, id=502, 58.2175pt x 19.07124pt>
 File: Pictures/eteno.jpg Graphic file (type jpg)
  <use Pictures/eteno.jpg>
 Package pdftex.def Info: Pictures/eteno.jpg used on input line 175.
@@ -3261,34 +3261,34 @@ Package babel Info: Redefining spanish shorthand "?
 
 [27 <./Pictures/3metilpentano.jpg> <./Pictures/2metilpentano.jpg> <./Pictures/t
 rimetilbutano.jpg> <./Pictures/metiletilheptano.jpg> <./Pictures/metiletilhexan
-o.jpg>] <Pictures/1buteno.jpg, id=502, 118.4425pt x 19.07124pt>
+o.jpg>] <Pictures/1buteno.jpg, id=517, 118.4425pt x 19.07124pt>
 File: Pictures/1buteno.jpg Graphic file (type jpg)
 
 <use Pictures/1buteno.jpg>
 Package pdftex.def Info: Pictures/1buteno.jpg used on input line 185.
 (pdftex.def)             Requested size: 118.4422pt x 19.07118pt.
 
-<Pictures/13butadieno.jpg, id=503, 121.45375pt x 19.07124pt>
+<Pictures/13butadieno.jpg, id=518, 121.45375pt x 19.07124pt>
 File: Pictures/13butadieno.jpg Graphic file (type jpg)
 
 <use Pictures/13butadieno.jpg>
 Package pdftex.def Info: Pictures/13butadieno.jpg used on input line 194.
 (pdftex.def)             Requested size: 121.45343pt x 19.07118pt.
 
-<Pictures/etino.jpg, id=504, 54.2025pt x 18.0675pt>
+<Pictures/etino.jpg, id=519, 54.2025pt x 18.0675pt>
 File: Pictures/etino.jpg Graphic file (type jpg)
  <use Pictures/etino.jpg>
 Package pdftex.def Info: Pictures/etino.jpg used on input line 207.
 (pdftex.def)             Requested size: 54.20236pt x 18.06744pt.
 
-<Pictures/1pentino.jpg, id=505, 146.5475pt x 19.07124pt>
+<Pictures/1pentino.jpg, id=520, 146.5475pt x 19.07124pt>
 File: Pictures/1pentino.jpg Graphic file (type jpg)
 
 <use Pictures/1pentino.jpg>
 Package pdftex.def Info: Pictures/1pentino.jpg used on input line 215.
 (pdftex.def)             Requested size: 146.54712pt x 19.07118pt.
 
-<Pictures/14pentadiino.jpg, id=506, 144.54pt x 19.07124pt>
+<Pictures/14pentadiino.jpg, id=521, 144.54pt x 19.07124pt>
 File: Pictures/14pentadiino.jpg Graphic file (type jpg)
 
 <use Pictures/14pentadiino.jpg>
@@ -3333,21 +3333,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
-<Pictures/octendiino.jpg, id=518, 299.1175pt x 19.07124pt>
+<Pictures/octendiino.jpg, id=532, 299.1175pt x 19.07124pt>
 File: Pictures/octendiino.jpg Graphic file (type jpg)
 
 <use Pictures/octendiino.jpg>
 Package pdftex.def Info: Pictures/octendiino.jpg used on input line 240.
 (pdftex.def)             Requested size: 299.11676pt x 19.07118pt.
 
-<Pictures/dimetilbuteno.jpg, id=519, 118.4425pt x 68.255pt>
+<Pictures/dimetilbuteno.jpg, id=533, 118.4425pt x 68.255pt>
 File: Pictures/dimetilbuteno.jpg Graphic file (type jpg)
 
 <use Pictures/dimetilbuteno.jpg>
 Package pdftex.def Info: Pictures/dimetilbuteno.jpg used on input line 247.
 (pdftex.def)             Requested size: 118.4422pt x 68.25482pt.
 
-<Pictures/putada.jpg, id=520, 269.005pt x 44.165pt>
+<Pictures/putada.jpg, id=534, 269.005pt x 44.165pt>
 File: Pictures/putada.jpg Graphic file (type jpg)
  <use Pictures/putada.jpg>
 Package pdftex.def Info: Pictures/putada.jpg used on input line 254.
@@ -3357,7 +3357,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
-<Pictures/heptadienino.jpg, id=521, 206.7725pt x 19.07124pt>
+<Pictures/heptadienino.jpg, id=535, 206.7725pt x 19.07124pt>
 File: Pictures/heptadienino.jpg Graphic file (type jpg)
 
 <use Pictures/heptadienino.jpg>
@@ -3392,13 +3392,82 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 269.
  [29 <./Pictures/octendiino.jpg> <./Pictures/dimetilbuteno.jpg> <./Pictures/put
 ada.jpg> <./Pictures/heptadienino.jpg>]
-<Pictures/cloropropano.jpg, id=534, 78.2925pt x 40.15pt>
+<Pictures/cloropropano.jpg, id=548, 78.2925pt x 40.15pt>
 File: Pictures/cloropropano.jpg Graphic file (type jpg)
 
 <use Pictures/cloropropano.jpg>
 Package pdftex.def Info: Pictures/cloropropano.jpg used on input line 272.
 (pdftex.def)             Requested size: 78.2923pt x 40.14989pt.
-)
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 276.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 276.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 276.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 276.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 276.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 276.
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+<Pictures/benres.jpg, id=549, 164.615pt x 95.35625pt>
+File: Pictures/benres.jpg Graphic file (type jpg)
+
+<use Pictures/benres.jpg>
+Package pdftex.def Info: Pictures/benres.jpg used on input line 293.
+(pdftex.def)             Requested size: 164.6146pt x 95.356pt.
+
+<Pictures/etilbenceno.jpg, id=550, 55.20625pt x 73.27374pt>
+File: Pictures/etilbenceno.jpg Graphic file (type jpg)
+
+<use Pictures/etilbenceno.jpg>
+Package pdftex.def Info: Pictures/etilbenceno.jpg used on input line 304.
+(pdftex.def)             Requested size: 55.2061pt x 73.27354pt.
+
+<Pictures/etenilbenceno.jpg, id=551, 95.35625pt x 56.21pt>
+File: Pictures/etenilbenceno.jpg Graphic file (type jpg)
+
+<use Pictures/etenilbenceno.jpg>
+Package pdftex.def Info: Pictures/etenilbenceno.jpg used on input line 307.
+(pdftex.def)             Requested size: 95.356pt x 56.20985pt.
+LaTeX Info: Redefining \sptext on input line 308.
+LaTeX Info: Redefining \. on input line 308.
+LaTeX Info: Redefining \% on input line 308.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 308.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 308.
+ [30 <./Pictures/cloropropano.jpg> <./Pictures/benres.jpg>])
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 128.
 Package babel Info: Redefining spanish shorthand >>
@@ -3413,10 +3482,10 @@ Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 128.
 
 
-LaTeX Warning: Citation 'book_key' on page 30 undefined on input line 130.
+LaTeX Warning: Citation 'book_key' on page 31 undefined on input line 130.
 
 
-LaTeX Warning: Citation 'article_key' on page 30 undefined on input line 130.
+LaTeX Warning: Citation 'article_key' on page 31 undefined on input line 130.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 134.
@@ -3457,7 +3526,34 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 166.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 166.
-[30 <./Pictures/cloropropano.jpg>]
+[31 <./Pictures/etilbenceno.jpg> <./Pictures/etenilbenceno.jpg>]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 166.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 166.
+ [32
+
+]
 Cap\'{\i }tulo 3.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 166.
@@ -3535,9 +3631,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 203.
- [31
-
-]
+ [33]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 207.
 Package babel Info: Redefining spanish shorthand >>
@@ -3637,7 +3731,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 273.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 273.
- [32]
+ [34]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand >>
@@ -3705,7 +3799,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 315.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 315.
- [33]
+ [35]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 315.
 Package babel Info: Redefining spanish shorthand >>
@@ -3730,7 +3824,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 315.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 315.
- [34
+ [36
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -3774,7 +3868,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 315.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 315.
- [35]
+ [37]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 315.
 Package babel Info: Redefining spanish shorthand >>
@@ -3800,7 +3894,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 315.
 
-[36]
+[38]
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 323.
@@ -3843,7 +3937,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 343.
 
-<Pictures/placeholder.jpg, id=606, 351.3125pt x 193.72375pt>
+<Pictures/placeholder.jpg, id=637, 351.3125pt x 193.72375pt>
 File: Pictures/placeholder.jpg Graphic file (type jpg)
 
 <use Pictures/placeholder.jpg>
@@ -3873,7 +3967,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 367.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 367.
- [37
+ [39
 
  <./Pictures/placeholder.jpg>]
 Package babel Info: Redefining spanish shorthand <<
@@ -3900,7 +3994,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 367.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 367.
- [38
+ [40
 
 ]
 Package babel Info: Redefining spanish shorthand <<
@@ -3945,7 +4039,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 55.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 55.
- [39
+ [41
 
 
 ])
@@ -3975,11 +4069,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36261 strings out of 493014
- 669010 string characters out of 6133351
+ 36293 strings out of 493014
+ 669588 string characters out of 6133351
  1185399 words of memory out of 5000000
- 38753 multiletter control sequences out of 15000+600000
- 145245 words of font info for 330 fonts, out of 8000000 for 9000
+ 38766 multiletter control sequences out of 15000+600000
+ 145600 words of font info for 334 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,16n,57p,10507b,2707s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
@@ -4002,10 +4096,10 @@ st/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/symbol/usyr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 547176 bytes).
+Output written on main.pdf (41 pages, 559134 bytes).
 PDF statistics:
- 863 PDF objects out of 1000 (max. 8388607)
- 659 compressed objects within 7 object streams
- 216 named destinations out of 1000 (max. 500000)
- 71128 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 900 PDF objects out of 1000 (max. 8388607)
+ 686 compressed objects within 7 object streams
+ 226 named destinations out of 1000 (max. 500000)
+ 71151 words of extra memory for PDF output out of 74296 (max. 10000000)
 
