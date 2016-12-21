@@ -235,7 +235,8 @@
 \newcounter{dummy} 
 \numberwithin{dummy}{section}
 \theoremstyle{ocrenumbox}
-\newtheorem{theoremeT}[dummy]{Theorem}
+\newtheorem{theoremeT}[dummy]{Teorema}
+\newtheorem{lawT}[dummy]{Ley}
 \newtheorem{problem}{Problema}[chapter]
 \newtheorem{exerciseT}{Exercise}[chapter]
 \theoremstyle{blacknumex}
@@ -317,6 +318,7 @@ innerbottommargin=5pt]{cBox}
 
 % Creates an environment for each type of theorem and assigns it a theorem text style from the "Theorem Styles" section above and a colored box from above
 \newenvironment{theorem}{\begin{tBox}\begin{theoremeT}}{\end{theoremeT}\end{tBox}}
+\newenvironment{law}{\begin{tBox}\begin{lawT}}{\end{lawT}\end{tBox}} % Creado por mí para Leyes
 \newenvironment{exercise}{\begin{eBox}\begin{exerciseT}}{\hfill{\color{ocre}\tiny\ensuremath{\blacksquare}}\end{exerciseT}\end{eBox}}				  
 \newenvironment{definition}{\begin{dBox}\begin{definitionT}}{\end{definitionT}\end{dBox}}	
 \newenvironment{example}{\begin{exampleT}}{\hfill{\tiny\ensuremath{\blacksquare}}\end{exampleT}}		
