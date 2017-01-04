@@ -1,0 +1,142 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Formulaci\IeC {\'o}n Qu\IeC {\'\i }mica}}{7}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Formulaci\IeC {\'o}n en Qu\IeC {\'\i }mica Inorg\IeC {\'a}nica}{9}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{9}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Sistemas de Nomenclatura}{9}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Nomenclatura de Composici\IeC {\'o}n}{10}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Nomenclatura de Sustituci\IeC {\'o}n}{10}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Nomenclatura de Adici\IeC {\'o}n}{10}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Tipos de Nomenclatura m\IeC {\'a}s utilizados}{10}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}N\IeC {\'u}mero de Oxidaci\IeC {\'o}n y Valencia}{11}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Sustancias Binarias}{11}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}Formulaci\IeC {\'o}n General de Sustancias Binarias}{11}{subsection.1.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}\IeC {\'O}xidos}{12}{subsection.1.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.3}Per\IeC {\'o}xidos}{12}{subsection.1.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.4}Hidruros Met\IeC {\'a}licos}{12}{subsection.1.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.5}Hidruros No Met\IeC {\'a}licos}{13}{subsection.1.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.6}Sales Binarias Metal-No Metal}{13}{subsection.1.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.7}Sales Binarias No Metal-No metal}{13}{subsection.1.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.8}Hidr\IeC {\'a}cidos}{14}{subsection.1.5.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Sustancias Ternarias (I): Hidr\IeC {\'o}xidos Met\IeC {\'a}licos y Oxo\IeC {\'a}cidos}{14}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.1}Hidr\IeC {\'o}xidos Met\IeC {\'a}licos}{14}{subsection.1.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.2}Oxo\IeC {\'a}cidos}{15}{subsection.1.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.6.3}Oxo\IeC {\'a}cidos de Inter\IeC {\'e}s Especial}{16}{subsection.1.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Iones}{17}{section.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.1}Cationes Monoat\IeC {\'o}micos}{17}{subsection.1.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Cationes Homopoliat\IeC {\'o}micos}{17}{subsection.1.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.3}Oxoaniones}{17}{subsection.1.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.8}Sustancias Ternarias (II): Oxisales}{18}{section.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.9}Sustancias Cuaternarias: Oxisales \IeC {\'A}cidas}{19}{section.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.10}Problemas}{21}{section.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {II}{Herramientas Qu\IeC {\'\i }micas}}{23}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Qu\IeC {\'\i }mica Cuantitativa}{25}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{25}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Leyes Ponerales}{25}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Ley de la Conservaci\IeC {\'o}n de la Masa (Ley de Lavoisier)}{25}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Ley de las Proporciones Definidas (Ley de Proust)}{26}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Ley de las Proporciones M\IeC {\'u}ltiples (Ley de Dalton)}{26}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Ley de las Proporciones Equivalentes (Ley de Richter)}{27}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Teor\IeC {\'\i }a At\IeC {\'o}mica de Dalton}{27}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Leyes Volum\IeC {\'e}tricas}{28}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Ley de los Vol\IeC {\'u}menes de Combinaci\IeC {\'o}n de Gay-Lussac}{28}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Hip\IeC {\'o}tesis de Avogadro}{28}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Concepto de Mol}{29}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Citation}{30}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Lists}{30}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Numbered List}{30}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Bullet Points}{30}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.3}Descriptions and Definitions}{30}{subsection.2.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}In-text Elements}{31}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Theorems}{31}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Several equations}{31}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Single Line}{31}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Definitions}{31}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Notations}{32}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Remarks}{32}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Corollaries}{32}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Propositions}{32}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.1}Several equations}{32}{subsection.3.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6.2}Single Line}{32}{subsection.3.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Examples}{32}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.1}Equation and Text}{33}{subsection.3.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.2}Paragraph of Text}{33}{subsection.3.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}Exercises}{33}{section.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.9}Problems}{33}{section.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.10}Vocabulary}{33}{section.3.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {III}{Part Two}}{35}{part.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Presenting Information}{37}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Table}{37}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Figure}{37}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{39}{section*.26}
+\contentsfinish 
