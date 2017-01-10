@@ -21,7 +21,8 @@ En una reacción química, la masa total de las substancias que reaccionan (reac
 \end{law}
 \begin{figure}[h!]
 	\centering
-	\includegraphics{lavoisier}
+	\includegraphics[width=0.8\textwidth]{lavoisier}
+	\caption{Representación gráfica de las experiencias de Lavoisier}
 \end{figure}
 
 \subsection{Ley de las Proporciones Definidas (Ley de Proust)}
@@ -150,8 +151,7 @@ Mil moléculas (o átomos) de cualquier especie es aún un número muy pequeño 
 	El mol corresponde con la cantidad de materia que contiene $6.022\cdot10^{23}$ átomos o moléculas de una determinada sustancia
 \end{definition}
 
-Esa es la ventaja de elegir “ese número tan raro", que \textbf{la masa en gramos de la especie elegida coincide numéricamente con la masa en uma}.\\
-A ese “número tan raro” se le conoce con el nombre de \textbf{Número de Avogadro}:\\
+Esa es la ventaja de elegir “ese número tan raro", que \textbf{la masa en gramos de la especie elegida coincide numéricamente con la masa en uma}. A ese “número tan raro” se le conoce con el nombre de \textbf{Número de Avogadro}:\\
 
 \begin{center}
 $N_A=6,02\cdot10^{23}$
@@ -177,7 +177,7 @@ Por todo lo anteriormente expuesto aquí, existe una manera de calcular la equiv
 	Y el número de moléculas: 
 	$1,021\cdot6,02\cdot10^{23} = 6,14\cdot10^{23}$  moléculas de $H_2SO_4$\\
 	
-	Puesto que existen 4 átomos de oxígeno por molécula de ácido sulfúrico:
+	Puesto que existen 4 átomos de oxígeno por molécula de ácido sulfúrico:\\
 	
 	1,021 moles de $H_2SO_4 \cdot 4 = 4,84$ moles de átomos de oxígeno
 	
@@ -240,7 +240,7 @@ Se definen las \emph{Variables de Estado} de un sistema como aquellas que por si
 Para el caso de los Gases Ideales, existe una ecuación que relaciona de manera extremadamente sencilla y eficaz las tres variables de estado. A esta relación se le conoce como \textbf{Ecuación de Estado de los Gases Ideales}:
 
 \begin{definition}[Ecuación de Estado de los gases Ideales]
-	El producto de la Presión a la que está sometido un Gas Ideal por su Volumen es directamente proporcional a la temperatura de éste\\
+	El producto de la Presión a la que está sometido un Gas Ideal por su Volumen es directamente proporcional a la temperatura de éste:
 	
 	\begin{align}
 		& P\cdot V = n\cdot R \cdot T
@@ -261,9 +261,114 @@ Una de las características mas destacables de la Ecuación de los Gases Ideales
 		
 \end{exercise}
 
-Según lo dicho anteriormente, la ecuación de los gases ideales no depende de la naturaleza del gas. Por tanto se puede concluir que:
+Según lo dicho anteriormente, la ecuación de los gases ideales no depende de la naturaleza del gas. Por tanto se puede concluir que:\\
 
 \begin{definition}[Volumen de un Gas Ideal en CN]
 	Un mol de cualquier gas ideal medido en Condiciones Normales ocupa un Volumen de 22,4 l
 \end{definition}
 
+\subsection{Mezcla de Gases: Ley de Dalton de las Presiones Parciales}
+
+Puesto que es casi imposible encontrar reactivos que sean químicamente puros, por norma general los gases se encuentran formando mezclas, por lo que su estudio se hace mas difícil. Fue el científico ingles J. Dalton quien en 1801 resolvió el problema enunciando la \textbf{Ley de las Presiones Parciales}\\
+
+\begin{definition}[Presión Parcial de un gas]
+	Se define la Presión Parcial de un gas en una mezcla como aquella que tendría dicho gas si en el recipiente que contiene la mezcla estuviese el solo a las mismas condiciones de Temperatura 
+\end{definition}
+
+Por tanto podemos enunciar:
+
+\begin{law}[Ley de Dalton de las Presiones Parciales]
+	La presión de una mezcla de gases ideales que no reaccionan químicamente, es igual a la suma de las presiones parciales que ejercería cada uno de ellos si sólo uno ocupase todo el volumen de la mezcla:\\
+	
+		$P_T = \displaystyle\sum_{i=1}^{N}P_i$\\
+		
+		$P_i = X_i \cdot P_T$
+		
+\end{law}
+
+Donde $P_T$ es la presión total, $P_i$ la presión parcial de gas en la mezcla y $X_i$ la fracción molar del gas en dicha mezcla.\\
+
+Si estamos ante el caso de un gas ideal, la ecuación de estado también se puede aplicar a cada gas por separado:
+
+\begin{center}
+	$P_i = n_i \cdot R \cdot T$
+\end{center}
+
+\section{Análisis Elemental y Composición Centesimal}
+
+Uno de los primeros problemas al que se enfrenta un químico cuando se encuentra ante un compuesto químico desconocido es hallar cual es su composición. Esto es de vital de importancia si nos encontramos ante un compuesto orgánico, en donde el primer paso será siempre el encontrar su formula molecular, como actuación previa para poder determinar su estructura. Así definimos composición centesimal como el porcentaje en masa de cada uno de los elementos que forman un compuesto en relación a la masa total.
+
+\begin{exercise}
+	Indica la Fórmula Molecular de un compuesto químico que contiene 40 \% de C, 6,7 \% de H y 53,3 \% de O. Su masa molecular obtenida por espectrometría de masas es 60 gr/mol.\\
+	
+	Dividimos cada uno de los porcentajes entre su masa atómica:\\
+	
+	$C: \frac{40}{12}=3,33$
+	$H: \frac{6,7}{1}=6,7$ 
+	$O: \frac{53,3}{16}=3,33$\\
+	
+	A continuación dividimos entre el número más bajo para establecer la proporción:\\
+	
+	$C: \frac{3,33}{3,33}=1$
+	$H: \frac{6,7}{3,33} \simeq 2$ 
+	$O: \frac{53,3}{16}=1$\\
+	
+	Por tanto la fórmula empírica del compuesto es $(CH_2O)_x$, cuya masa molecular es $M_{FE} = 12 + 2 \cdot 1 + 16 = 30$ gr/mol.\\
+	
+	Para calcular la formula molecular, dividimos la masa molecular del compuesto entre la masa molecular de la fórmula empírica:
+	$x = \frac{60}{30}=2$\\
+	
+	Por lo que la fórmula molecular del compuesto será $(CH_2O)_2 = C_2H_4O_2$
+	
+\end{exercise}
+
+\subsection{Análisis Elemental por Combustión}
+
+El método clásico para realizar un análisis elemental se basa en el hecho de que cualquier hidrocarburo sometido a una combustión genera como productos $CO_2$ y $H_2O$:\\
+
+\begin{center}
+	$C_xH_yO_z + O_2 \rightarrow mCO_2 + nH_2O$
+\end{center}
+
+El aparato analizador consiste en en una cámara cerrada en donde se produce una combustión total del analito. El tren de gases producido se hace pasar por un montaje que incluye un primer recipiente en donde nos encontramos con un agente anhidro ($Mg(ClO_4)_2$ o $CaCl_2$) que atrapa todo el agua generada. Posteriormente se dispone un segundo recipiente que contiene una base fuerte (normalmente KOH) para atrapar todo el CO2 formado. La diferencia de peso de los recipientes antes de la combustión y después nos dará la cantidad de $CO_2$ y $H_2O$ formadas. Es, por tanto, un método de análisis gravimétrico. 
+
+\begin{exercise}
+	Por combustión de 0,25 gr de una substancia orgánica compuesta por C, H y O, se obtienen 0,568 gr de CO2 y 0,232 gr de H2O. Calcula la fórmula empírica del compuesto.\\
+	
+	El objetivo va a ser calcular el número de moles de átomos de C, H y O presentes en la muestra. En el caso de los dos primeros es directo:
+	
+	C: $\frac{0,568}{44}  = 0,0129 moles CO_2 \cdot 1 = 0,0129$ moles de C
+	
+	H: $\frac{0,232}{18} = 0,0128 moles de H_2O \cdot 2 = 0,0257$ moles de H\\
+	
+	En el caso del Oxígeno es un poco más complicado, pues la cantidad presente en $CO_2$ y $H_2O$ proviene tanto del compuesto problema como del $O_2$ del aire. Por tanto, sacamos los gr de C e H atómicos:\\
+	
+	C: $0,0129\cdot 12 = 0,1549$ gr de C
+	
+	H: $0,0257\cdot 1 = 0,0257$ gr de H\\
+	
+	Y aplicando la Ley de Lavoisier:
+	
+	$m_O$ = 0,25 -(0,1549 + 0,0257) = 0,0694 gr de O / 16 = 0,0044 moles de O\\
+	
+	Ahora dividimos entre el menor número de moles atómicos:\\
+	
+	C: $\frac{0,0118}{0,0043} = 3$
+	
+	H: $\frac{0,0257}{0,0043} = 6$
+	
+	O: $\frac{0,0043}{0,0043} = 1$\\
+	
+	Luego la fórmula empírica del compuesto es $C_3H_6O$
+	
+\end{exercise}
+
+\section{Disoluciones}
+
+Una disolución se define como una mezcla homogénea en la cual uno de los componentes (disolvente) se encuentra en mucha mayor proporción que el otro (soluto). Tanto disolvente como soluto pueden estar en cualquiera de los tres estados de agregación de la materia, dando lugar a infinidad de tipos distintos de disoluciones:\\
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics{dis}
+	\caption{Resumen de los distintos tipos de disoluciones}
+\end{figure}  
