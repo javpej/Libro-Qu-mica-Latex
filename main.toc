@@ -104,15 +104,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.9.2}Diluciones}{36}{subsection.2.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.10}Citation}{37}{section.2.10}
+\contentsline {section}{\numberline {2.10}Estequiometr\IeC {\'\i }a}{37}{section.2.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.11}Lists}{37}{section.2.11}
+\contentsline {subsection}{\numberline {2.10.1}Ajuste de Reacciones Qu\IeC {\'\i }micas}{37}{subsection.2.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.11.1}Numbered List}{37}{subsection.2.11.1}
+\contentsline {subsection}{\numberline {2.10.2}Estequimetr\IeC {\'\i }a con un Reactivo en Exceso}{38}{subsection.2.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.11.2}Bullet Points}{37}{subsection.2.11.2}
+\contentsline {section}{\numberline {2.11}Citation}{38}{section.2.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.11.3}Descriptions and Definitions}{37}{subsection.2.11.3}
+\contentsline {section}{\numberline {2.12}Lists}{38}{section.2.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.1}Numbered List}{38}{subsection.2.12.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.2}Bullet Points}{38}{subsection.2.12.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.3}Descriptions and Definitions}{38}{subsection.2.12.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}In-text Elements}{39}{chapter.3}
 \defcounter {refsection}{0}\relax 
