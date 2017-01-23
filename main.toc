@@ -110,57 +110,65 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.10.2}Estequimetr\IeC {\'\i }a con un Reactivo en Exceso}{38}{subsection.2.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.11}Citation}{38}{section.2.11}
+\contentsline {subsection}{\numberline {2.10.3}Reactivo Limitante y Reactivo en Exceso}{38}{subsection.2.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.12}Lists}{38}{section.2.12}
+\contentsline {subsection}{\numberline {2.10.4}Pureza de Reactivos}{39}{subsection.2.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.12.1}Numbered List}{39}{subsection.2.12.1}
+\contentsline {subsection}{\numberline {2.10.5}Rendimiento de una Reacci\IeC {\'o}n Qu\IeC {\'\i }mica}{40}{subsection.2.10.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.12.2}Bullet Points}{39}{subsection.2.12.2}
+\contentsline {section}{\numberline {2.11}Problemas}{41}{section.2.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.12.3}Descriptions and Definitions}{39}{subsection.2.12.3}
+\contentsline {section}{\numberline {2.12}Citation}{43}{section.2.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}In-text Elements}{41}{chapter.3}
+\contentsline {section}{\numberline {2.13}Lists}{43}{section.2.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Theorems}{41}{section.3.1}
+\contentsline {subsection}{\numberline {2.13.1}Numbered List}{43}{subsection.2.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Several equations}{41}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {2.13.2}Bullet Points}{43}{subsection.2.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Single Line}{41}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {2.13.3}Descriptions and Definitions}{43}{subsection.2.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Definitions}{41}{section.3.2}
+\contentsline {chapter}{\numberline {3}In-text Elements}{45}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Notations}{42}{section.3.3}
+\contentsline {section}{\numberline {3.1}Theorems}{45}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Remarks}{42}{section.3.4}
+\contentsline {subsection}{\numberline {3.1.1}Several equations}{45}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Corollaries}{42}{section.3.5}
+\contentsline {subsection}{\numberline {3.1.2}Single Line}{45}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Propositions}{42}{section.3.6}
+\contentsline {section}{\numberline {3.2}Definitions}{45}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Several equations}{42}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.3}Notations}{46}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.2}Single Line}{42}{subsection.3.6.2}
+\contentsline {section}{\numberline {3.4}Remarks}{46}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Examples}{42}{section.3.7}
+\contentsline {section}{\numberline {3.5}Corollaries}{46}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.1}Equation and Text}{43}{subsection.3.7.1}
+\contentsline {section}{\numberline {3.6}Propositions}{46}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.7.2}Paragraph of Text}{43}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.6.1}Several equations}{46}{subsection.3.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}Exercises}{43}{section.3.8}
+\contentsline {subsection}{\numberline {3.6.2}Single Line}{46}{subsection.3.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.9}Problems}{43}{section.3.9}
+\contentsline {section}{\numberline {3.7}Examples}{46}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.10}Vocabulary}{43}{section.3.10}
+\contentsline {subsection}{\numberline {3.7.1}Equation and Text}{47}{subsection.3.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\@mypartnumtocformat {III}{Part Two}}{45}{part.3}
+\contentsline {subsection}{\numberline {3.7.2}Paragraph of Text}{47}{subsection.3.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Presenting Information}{47}{chapter.4}
+\contentsline {section}{\numberline {3.8}Exercises}{47}{section.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Table}{47}{section.4.1}
+\contentsline {section}{\numberline {3.9}Problems}{47}{section.3.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Figure}{47}{section.4.2}
+\contentsline {section}{\numberline {3.10}Vocabulary}{47}{section.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{49}{section*.27}
+\contentsline {part}{\@mypartnumtocformat {III}{Part Two}}{49}{part.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Presenting Information}{51}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Table}{51}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Figure}{51}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{53}{section*.27}
 \contentsfinish 
