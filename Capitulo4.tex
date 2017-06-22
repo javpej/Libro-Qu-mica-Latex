@@ -39,7 +39,10 @@ Pasamos ahora a estudiar el Primer Principio de la Termodinámica que es una gen
 
 Consideraremos el caso de un gas ideal encerrado en un cilindro con émbolo movil. En cierto momento aumenta la presión en el interior del recipiente y el gas se expande efectuando un trabajo al desplazar el émbolo hacia arriba una longitud infinitamente pequeña (dx). Por tanto, el trabajo efectuado por dicho gas será:
 
-
+\begin{figure}[h!]
+	\centering
+	\includegraphics [scale = 0.4]{trabajo1p}
+\end{figure}
 
 \begin{definition}[Trabajo Termodinámico]
 	Se define en física el trabajo que efectúa una fuerza al desplazar un objeto un elemento dx como:
@@ -52,6 +55,118 @@ Consideraremos el caso de un gas ideal encerrado en un cilindro con émbolo movi
 	\end{align}
 \end{definition}
 
-Se puede interpretar geométricamente el trabajo como el área encerrada bajo la curva de la gráfica presión-temperatura de un gas ideal.\\
+Se puede interpretar geométricamente el trabajo como el área encerrada bajo la curva de la gráfica presión-temperatura de un gas ideal.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale = 0.5]{trabajopV}
+\end{figure}
+
+De esta gráfica se puede deducir una consecuencia muy importante. En efecto si analizamos en detalle la gráfica anterior nos daremos cuenta de que el área encerrada bajo la curva es distinta en el proceso de color rojo que en el proceso de color verde, aunque los estados inicial y final de ambos procesos sean los mismos. El Trabajo \emph{no es una función de estado de un sistema termodinámico}.\\
+
+\subsection{Energía Interna}
+
+Se puede entender la \textbf{Energía Interna (U)} en Termodinámica como la medida macroscópica de la energía microscópica de las moléculas que componen un sistema. Se puede considerar como la suma de:\\
+
+\begin{itemize}
+	
+	\item \textbf{Energía Cinética Interna}, es decir, de las sumas de las energías cinéticas de las individualidades que lo forman respecto al centro de masas del sistema.
+	
+	\item  \textbf{Energía Potencial Interna}, que es la energía potencial asociada a las interacciones entre estas individualidades.
+	
+\end{itemize}
+
+La energía interna no incluye la energía cinética traslacional o rotacional del sistema como un todo. Tampoco incluye la energía potencial que el cuerpo pueda tener por su localización en un campo gravitacional o electrostático externo. Por tanto, es una Energía que no es accesible desde el punto de vista de la mecánica clásica.\\
+
+Como se puede observar, la energía interna solo depende de la configuración macroscópica del sistema, por lo que también es una \emph{función de estado} del mismo. 
+
+\subsection{Criterio de Signos}
+
+Para la formulación del primer principio, debemos de establecer un criterio de signos a la hora de evaluar los intercambios de energía que se producen entre el sistema y el entorno en términos de calor y trabajo. Así, nosotros estableceremos el Criterio Clásico:
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale=0.5]{critsignos}
+\end{figure}
+
+Como podemos observar el calor que se cede del sistema al entorno lo tomaremos como negativo, mientras que el trabajo que realiza el sistema sobre el entorno lo tomaremos a su vez como positivo.
+
+\subsection{Primer Principio de la Termodinámica}
+
+El primer principio de la Termodinámica qué enunciado en 1850 por \textbf{Clasius} y \textbf{Lord Kelvin}, y es una generalización del Principio de Conservación de la Energía expresado en términos de trabajo y calor. Su enunciado sería:\\
+
+\begin{definition}[Primer Principio de la Termodinámica]
+	El aumento de Energía Interna de un Sistema Termodinámico es igual a la diferencia entre el calor aplicado y el trabajo realizado.
+	
+	\begin{align}
+		& \Delta U = Q-W
+	\end{align}
+
+O también podemos expresarlo de forma diferencial:\\
+
+	\begin{align}
+		& dU = dQ - dW = dQ - PdV
+	\end{align}
+	
+\end{definition}
+
+Para un proceso isocórico (a V=cte.) dV = 0, por lo que se queda:\\
+
+\begin{center}
+	$dU = dQ_v$
+\end{center}
+
+\begin{definition}[Interpretación de la Energía Interna]
+	La Energía Interna de un Sistema Termodinámico se puede interpretar como el calor intercambiado en un proceso a Volumen Constante
+\end{definition}
+
+\section{Concepto de Entalpía}
+
+El principal problema que encontramos a la hora de tratar el calor es que éste no es Función de Estado del Sistema. Sería muy interesante encontrar una magnitud calorífica que fuese variable de estado del sistema, pues en el caso de un proceso químico, esta dependería solo del estado final e inicial del proceso, es decir, de los reactivos y productos.\\
+\begin{Definition}[]
+	Se define Entalpía (en griego, “agregar calor”) como:
+	\begin{align}
+		& H = U + P\cdot V
+	\end{align}
+\end{Definition}
+
+Como podemos observar, U, P y V son variables de estado del sistema, por lo que H también lo es. Si diferenciamos la ecuación obtenemos:\\
+
+\begin{center}
+	$dH = dU + PdV + VdP$\\
+\end{center}
+
+Despejando el calor del enunciado del Primer Principio:\\
+
+\begin{center}
+
+$dQ = dU + PdV$\\
+
+\end{center}
+
+Como podemos observar, las dos expresiones anteriores son coincidentes en el caso de que hagamos dP = 0, es decir, tengamos un proceso Isobárico (a P = cte). En ese caso se obtiene:\\
+
+\begin{center}
+	$dH =dQ_P$\\
+\end{center}
+
+Puesto que a mayoría de reacciones químicas se realizan a presión constante (la atmosférica), utilizaremos la entalpía para calcular los calores intercambiados en una reacción química.
+
+\section{Entalpía Estándar de Reacción: Diagramas Entálpicos}
+
+Uno de los factores que más nos interesa estudiar de una reacción química es el de calor que desprende o absorbe un proceso. Según lo visto en el apartado anterior, introducimos el concepto de \emph{Entalpía de Reacción}
+
+\begin{definition}[Entalpía de Reacción]
+	
+	Se define Entalpía de Reacción $\Delta H_r$ como el calor absorbido o desprendido en una reacción química cuando ésta transcurre a Presión constante
+	
+\end{definition}
+
+Como los valores de Entalpía de Reacción van a depender de la Presión y la Temperatura, para simplificar los cálculos vamos a definir unas condiciones que tomaremos como referencia a la hora de tabular y de tratar de manera numérica, las denominadas \emph{Condiciones Estándar}\\
+
+\begin{Definition}[Condiciones Estándar Termodinámicas]
+	Se definen las Condiciones Estándar Termodinámicas como aquellas que corresponden con un Temperatura  de 298 K y una Presión de 1 atm.
+\end{Definition}
+
 
 
