@@ -70,9 +70,9 @@ Se puede entender la \textbf{Energía Interna (U)} en Termodinámica como la med
 
 \begin{itemize}
 	
-	\item \textbf{Energía Cinética Interna}, es decir, de las sumas de las energías cinéticas de las individualidades que lo forman respecto al centro de masas del sistema.
+	\item \textbf{Energía Cinética Interna}, es decir, de las sumas de las energías cinéticas de las individualidades que lo forman respecto al centro de masas del sistema.\\
 	
-	\item  \textbf{Energía Potencial Interna}, que es la energía potencial asociada a las interacciones entre estas individualidades.
+	\item  \textbf{Energía Potencial Interna}, que es la energía potencial asociada a las interacciones entre estas individualidades.\\
 	
 \end{itemize}
 
@@ -86,7 +86,7 @@ Para la formulación del primer principio, debemos de establecer un criterio de 
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[scale=0.5]{critsignos}
+	\includegraphics[scale=0.4]{critsignos}
 \end{figure}
 
 Como podemos observar el calor que se cede del sistema al entorno lo tomaremos como negativo, mientras que el trabajo que realiza el sistema sobre el entorno lo tomaremos a su vez como positivo.
@@ -123,12 +123,12 @@ Para un proceso isocórico (a V=cte.) dV = 0, por lo que se queda:\\
 \section{Concepto de Entalpía}
 
 El principal problema que encontramos a la hora de tratar el calor es que éste no es Función de Estado del Sistema. Sería muy interesante encontrar una magnitud calorífica que fuese variable de estado del sistema, pues en el caso de un proceso químico, esta dependería solo del estado final e inicial del proceso, es decir, de los reactivos y productos.\\
-\begin{Definition}[]
+\begin{definition}[]
 	Se define Entalpía (en griego, “agregar calor”) como:
 	\begin{align}
 		& H = U + P\cdot V
 	\end{align}
-\end{Definition}
+\end{definition}
 
 Como podemos observar, U, P y V son variables de estado del sistema, por lo que H también lo es. Si diferenciamos la ecuación obtenemos:\\
 
@@ -164,9 +164,63 @@ Uno de los factores que más nos interesa estudiar de una reacción química es 
 
 Como los valores de Entalpía de Reacción van a depender de la Presión y la Temperatura, para simplificar los cálculos vamos a definir unas condiciones que tomaremos como referencia a la hora de tabular y de tratar de manera numérica, las denominadas \emph{Condiciones Estándar}\\
 
-\begin{Definition}[Condiciones Estándar Termodinámicas]
-	Se definen las Condiciones Estándar Termodinámicas como aquellas que corresponden con un Temperatura  de 298 K y una Presión de 1 atm.
-\end{Definition}
+\begin{definition}[Condiciones Estándar Termodinámicas]
+	Se definen las Condiciones Estándar Termodinámicas como aquellas que corresponden con un Temperatura de 298 K y una Presión de 1 atm.
+\end{definition}
+
+Realmente los que conocemos como Entalpía de Reacción es la diferencia de entalpía (incremento) entre reactivos y productos:
+
+\begin{center}
+	$\Delta H^{0}_r = H^{0}_{Productos} -  H^{0}_{Reactivos} $
+\end{center}
+
+Puesto que la entalpía es una función de estado y además representa al calor de reacción a presión constante (que no olvidemos es energía) las entalpías van a depender del contenido energético de reactivos y productos. Por tanto, en una reacción química nos podemos hallar ante dos situaciones:\\
+
+\begin{itemize}
+	\item Que el contenido energético de los productos sea menor que en los reactivos. En ese caso al final de una reacción química habrá un exceso de energía que se transmitirá al entorno en forma de calor. A dicho proceso se le conoce como \textbf{Proceso Exotérmico ($\Delta H^{0}_r < 0$)}\\
+	
+	\item Que el contenido energético de los productos sea mayor que en los reactivos. En ese caso al final de una reacción química se necesitará un aporte de energía (calor) del medio para que ésta tenga lugar. A dicho proceso se le conoce como \textbf{Proceso Endotérmico ($\Delta H^{0}_r > 0$)}\\
+\end{itemize}
+
+Una manera muy útil de ilustrar este proceso es mediante los denominados\emph{Diagramas Entálpicos}:
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale = 0.5]{entalpico}
+\end{figure}
+
+Por norma general, se suelen nombrar las entalpías con el nombre del tipo de reacción química presente. Así hablaremos de entalpía de combustión, de hidrólisis, de hidratación…..etc.
+
+\section{Cálculo de Entalpías de Reacción}
+
+En los siguientes apartados estudiaremos los métodos mas utilizados para el cálculo de entalpías de reacción.
+
+\subsection{Entalpías Estándas de Formación}
+
+Se define \textbf{Entalpía Estándar de Formación} como el calor necesario para formar 1 mol de compuesto químico a partir de sus elementos en su estado mas estable (esto es, estado de agregación y forma alotrópica mas estables). Sus unidades en el SI es el J/mol, aunque por su magnitud se suele emplear el KJ/mol.
+
+\begin{center}
+	$2C_{(s)Grafito}+2H_{2(g)} \longrightarrow 2C_2H_{2(g)}$ \hspace{1cm} $\Delta H^{0}_f = +54\; KJ/mol$ 
+\end{center}
+
+Como en las Entalpías solo podemos calcular sus incrementos y, por tanto, carecemos de una escala absoluta de las mismas, asumiremos por convenio que:\\
+
+\begin{definition}
+Las Entalpías de Formación de los Elementos Químicos puros que se hallen en su estado mas estable tienen valor 0.
+\end{definition}
+
+Este convenio establecido, y el hecho de que la Entalpía es una función de estado hace que el cálculo de calores de reacción a partir de sus calores de formación sea muy sencillo, puesto que las entalpías de formación de la mayoría de compuestos químicos en condiciones estándar se encuentran tabuladas:
+
+\begin{center}
+	$\Delta H^{0}_r = \displaystyle\sum_{i = 1}^{N}(\Delta H^{0}_f)_{Productos} - \displaystyle\sum_{i=1}^{N}(\Delta H^{0}_f)_{Reactivos}$
+\end{center}
+
+
+
+
+
+
+
 
 
 
