@@ -148,57 +148,59 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.8.2}Entalp\IeC {\'\i }as de Enlace}{51}{subsection.3.8.2}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8.3}Ley de Hess}{52}{subsection.3.8.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.9}Citation}{52}{section.3.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.10}Lists}{52}{section.3.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.10.1}Numbered List}{52}{subsection.3.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.10.2}Bullet Points}{52}{subsection.3.10.2}
+\contentsline {subsection}{\numberline {3.10.2}Bullet Points}{53}{subsection.3.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.10.3}Descriptions and Definitions}{52}{subsection.3.10.3}
+\contentsline {subsection}{\numberline {3.10.3}Descriptions and Definitions}{53}{subsection.3.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}In-text Elements}{53}{chapter.4}
+\contentsline {chapter}{\numberline {4}In-text Elements}{55}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Theorems}{53}{section.4.1}
+\contentsline {section}{\numberline {4.1}Theorems}{55}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Several equations}{53}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Several equations}{55}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Single Line}{53}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.2}Single Line}{55}{subsection.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Definitions}{53}{section.4.2}
+\contentsline {section}{\numberline {4.2}Definitions}{55}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Notations}{54}{section.4.3}
+\contentsline {section}{\numberline {4.3}Notations}{56}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Remarks}{54}{section.4.4}
+\contentsline {section}{\numberline {4.4}Remarks}{56}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Corollaries}{54}{section.4.5}
+\contentsline {section}{\numberline {4.5}Corollaries}{56}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Propositions}{54}{section.4.6}
+\contentsline {section}{\numberline {4.6}Propositions}{56}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.1}Several equations}{54}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.1}Several equations}{56}{subsection.4.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.2}Single Line}{54}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.2}Single Line}{56}{subsection.4.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Examples}{54}{section.4.7}
+\contentsline {section}{\numberline {4.7}Examples}{56}{section.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7.1}Equation and Text}{55}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.1}Equation and Text}{57}{subsection.4.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7.2}Paragraph of Text}{55}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.2}Paragraph of Text}{57}{subsection.4.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.8}Exercises}{55}{section.4.8}
+\contentsline {section}{\numberline {4.8}Exercises}{57}{section.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.9}Problems}{55}{section.4.9}
+\contentsline {section}{\numberline {4.9}Problems}{57}{section.4.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.10}Vocabulary}{55}{section.4.10}
+\contentsline {section}{\numberline {4.10}Vocabulary}{57}{section.4.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\@mypartnumtocformat {III}{Part Two}}{57}{part.3}
+\contentsline {part}{\@mypartnumtocformat {III}{Part Two}}{59}{part.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Presenting Information}{59}{chapter.5}
+\contentsline {chapter}{\numberline {5}Presenting Information}{61}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Table}{59}{section.5.1}
+\contentsline {section}{\numberline {5.1}Table}{61}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Figure}{59}{section.5.2}
+\contentsline {section}{\numberline {5.2}Figure}{61}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{61}{section*.31}
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{63}{section*.31}
 \contentsfinish 
