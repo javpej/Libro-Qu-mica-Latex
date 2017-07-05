@@ -282,22 +282,107 @@ La Ley de Hess es una consecuencia lógica del hecho de que la Entalpía sea una
 	Calcula la Entalpía de la Reacción:
 	\begin{center}
 		\schemestart
-		\chemfig{C_{(s)}} \hspace{0.3cm} + \hspace{0.3cm} \chemfig{CO_{2(g)}} \arrow 2\chemfig{CO_{(g)}}
+		\chemfig{C_{(s)}} \hspace{0.2cm} + \hspace{0.2cm} \chemfig{CO_{2(g)}} \arrow 2\chemfig{CO_{(g)}}
 		\schemestop
 	\end{center}
 
 Sabiendo que:\\
 
+$CO_{(g)}\; +\; 1/2O_{2(g)} \longrightarrow CO_{2(g)}$ (a)\\
 
+$C_{(s)}\; +\; O_{2(g)} \longrightarrow CO_{2(g)}$ (b)\\
+
+Como podemos observar, la reacción problema se puede expresar en función de las dos dadas:\\
+
+$-2\cdot(CO_{(g)}\; +\; 1/2 O_{2(g)} \longrightarrow CO_{2(g)})$\\
+
+\hspace{0.9cm}$C_{(s)}\; + \; O_{2(g)} \longrightarrow CO_{2(g)}$
+
+\hspace{0.4cm}\rule{5.5cm}{0.1mm}
+
+\hspace{1cm}$C_{(s)}\; +\; CO_{2(g)} \longrightarrow 2CO_{(g)}$\\
+
+Luego las entalpías de reacción seguirán la misma relación:\\
+
+$\Delta H_r^0  = -2\cdot \Delta H_a^0 + \Delta H_b^0=172.5 \;KJ$
 
 \end{exercise}
 
+\section{Segundo Principio de la Termodinámica}
+\subsection{Insuficiencia del Primer Principio}
 
+Cuando estudiamos los distintos sistemas físicos, caemos en la cuenta de el Primer Principio se torna totalmente insuficiente a la hora de explicar la espontaneidad de ciertos procesos naturales.\\
 
+Por ejemplo, considérese un gas encerrado en un recipiente unido a otro vacío por una llave. Si accionamos dicha llave, vemos como el gas tiende a ocupar todo el volumen de ambos recipientes distribuyéndose uniformemente. Sin embargo, el proceso inverso no ocurrirá nunca, aunque ambas situaciones estén en consonancia con el Primer Principio.\\
 
+\begin{figure}[h!]
+	\centering
+	\subfloat[Proceso No Espontáneo]{\includegraphics[scale=1.1]{image002}}\hspace{4cm}
+	\subfloat[Proceso Espontáneo]{\includegraphics [scale=1.1]{image001}}
+\end{figure}
 
+Es por ello que es necesario introducir un nuevo principio básico de la termodinámica que nos indique la evolución de los sistemas físicos.
 
+\subsection{Concepto de Entropía}
 
+Se define \emph{Entropía} (del griego, “transformación o “evolución”) como la magnitud física que mide la parte de la energía inutilizable de un sistema, esto es, aquella que no es susceptible de ser transformada en trabajo. Fue introducida por \emph{R. Clausius} en la década de 1850 para explicar la espontaneidad de los procesos que tienen lugar dentro de las máquinas térmicas.\\
 
+\begin{definition}[Entropía de un Sistema]
+	Se define matemáticamente la Entropía como:
+	\begin{align}
+	& dS = \frac{dQ}{T}
+	\end{align}
+	
+	O de Forma Finita:
+	
+	\begin{align}
+		& \Delta S = \int_{1}^{2} \frac{dQ}{T}
+	\end{align}
+	
+	Sus unidades en el SI son el J/K
+	
+\end{definition}
 
+\subsection{Segundo Principio de la Termodinámica}
 
+El Segundo Principio de la Termodinámica o Principio de Evolución rige la espontaneidad de los Sistemas Físicos utilizando para ello el concepto de entropía\\
+
+\begin{definition}[Segundo Principio de la Termodinámica]
+	En un Sistema Termodinámico aislado, la Entropía de un proceso espontáneo siempre aumenta.
+\end{definition}
+
+Como podemos observar, este enunciado pone inmediatamente de manifiesto su principal característica: se trata de una de las pocas leyes ontológicas de la Física, en tanto que distingue, de manera general, aquellos procesos y estados físicos que son posibles de aquellos que no lo son; esto es, el segundo principio permite determinar la posibilidad de un proceso o estado. De hecho, en un sentido histórico el segundo principio surgió, en plena Revolución Industrial en el contexto de las máquinas térmicas como una explicación empírica de por qué éstas se comportaban de una manera determinada y no de otra. En efecto, aunque parezca trivial, siempre se observaba, por ejemplo, que para calentar una caldera era necesario emplear combustible ardiendo a mayor temperatura que la de la caldera; sin embargo, jamás se observaba que la caldera se calentara tomando energía de su entorno, el cual a su vez se enfriaría. De hecho, podría razonarse que, en virtud del Primer Principio, nada impide que, espontáneamente, sea posible extraer calor de un cuerpo frío, por ejemplo a 200K, para transmitírselo a otro caliente, por ejemplo a 1000 K: basta con que se cumpla el balance energético correspondiente, a consecuencia del cual el cuerpo frío se enfriaría aún más, y el caliente se calentaría más aún. Sin embargo, todo esto es contrario a toda experiencia; y aunque parezca común y hasta trivial, tenía un extraordinario impacto en las máquinas empleadas en la Revolución Industrial.\\
+
+Sin embargo, el Segundo Principio plantea dos problemas: El primero es el hecho de que el concepto de Entropía carece de una interpretación física. Es una magnitud que se deduce de observaciones experimentales, pero no corresponde a ningún observable físico.\\
+
+El segundo problema es que el Segundo Principio sólo es aplicable a sistemas aislados. Es muy difícil encontrar un sistema termodinámico real que se pueda considerar aislado. De hecho, el único sistema que se puede considerar considerado es el universo en si. Por tanto, una formulación mas general del Segundo Principio sería:\\
+
+\begin{definition}[Segundo Principio de la Termodinámica (Formulación 2)]
+	La Entropía del Universo siempre Aumenta
+\end{definition}
+
+\subsection{Interpretación Molecular de la Entropía: Ecuación de Boltzmann}
+
+En los años 1890-1900, el físico austriaco \textbf{Ludwig Boltzmann (1844-1906)} intentó relacionar la entropía como variable macroscópica con los sucesos que ocurren en un Sistema Termodinámico a nivel microscópico, utilizando para ello una herramienta que posteriormente fue llamada Mecánica Estadística. Así, encontró la llave que unía ambos mundos (macroscópico y microscópico) en la siguiente ecuación:\\
+
+\begin{definition}[Ecuación de Boltzmann]
+	La entropía de un Sistema Macroscópico es directamente a los Microsestados microscópicos de dicho Sistema:
+	\begin{align}
+		& S = K_B \cdot \ln \Omega
+	\end{align}
+	
+	Donde $K_B$ es la denominada \emph{Constante de Boltzmann}, cuyo valor es $K_B = 1,38 \cdot 10^{-23}\; J/K$
+	
+\end{definition}
+
+El descubrimiento de esta ecuación hizo posible interpretar la Entropía como el Desorden de un sistema. Por ejemplo, si dejamos caer un vaso de cristal al suelo, este se romperá en muchos pedazos aumentando el desorden del sistema (y por tanto la entropía). En el caso del gas encerrado en el émbolo, el proceso espontáneo será aquel en el que el gas contenido en un solo recipiente ocupa todo el volumen del mismo, aumentando su desorden. El proceso contrario (que el gas se desplace totalmente hacia uno de los émbolos dejando el otro totalmente vacío disminuye el desorden del sistema, por lo que será un proceso no espontáneo. 
+
+\section{Tercer Principio de la Termodinámica}
+
+La ecuación de Boltzmann no solo nos permite interpretar la entropía como el desorden de un sistema, sino que también nos permite establecer una escala de entropías molares para el cálculo de las mismas, de lo que se ocupa el Tercer Principio de la Termodinámica.\\
+
+\begin{definition}[Tercer Principio de la Termodinámica]
+	La Entropía de un Cristal Perfecto en el Cero Absoluto es Cero
+\end{definition}
+
+En efecto, en un cristal perfecto en el cero absoluto se considera que $\Omega = 1$ y por tanto, según la ecuación de Boltzmann S = 0 J/K. Esto, unido al hecho de que la Entropía es función de estado del sistema, hace posible el poder tabular las Entropías (al igual que ocurría con las entalpías de formación) para poder abordar su cálculo de manera sencilla.
