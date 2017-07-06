@@ -384,5 +384,79 @@ La ecuación de Boltzmann no solo nos permite interpretar la entropía como el d
 \begin{definition}[Tercer Principio de la Termodinámica]
 	La Entropía de un Cristal Perfecto en el Cero Absoluto es Cero
 \end{definition}
+\subsection{Tercer Prinncipio de la Termodinámica}
 
 En efecto, en un cristal perfecto en el cero absoluto se considera que $\Omega = 1$ y por tanto, según la ecuación de Boltzmann S = 0 J/K. Esto, unido al hecho de que la Entropía es función de estado del sistema, hace posible el poder tabular las Entropías (al igual que ocurría con las entalpías de formación) para poder abordar su cálculo de manera sencilla.
+
+\subsection{Cálculo de Entropías}
+
+A partir del Tercer Principio de la Termodinámica es muy fácil calcular entropías de reacción según la ecuación:
+\\
+
+\begin{center}
+	
+	$$\Delta S^0 = (\sum_{i=1}^{N} n_i \cdot S^0)_{Productos} - (\sum_{i=1}^{N} n_i \cdot S^0)_{Reactivos}$$
+	
+\end{center}
+
+\begin{exercise}
+	\textbf{Calcula la Variación de Entropía Estándar de la Reacción:}
+	\begin{center}
+		$2SO_{3(g)} \longrightarrow 2SO_{2(g)} \; + \; O_{2(g)}$
+	\end{center}
+	
+	\textbf{Sabiendo que las Entropías molares Estándar son $S^0 (J/mol\cdot K)$:}$SO_{3(g)} = 252,6;\; SO_{2(g)} = 248,5;\; O_{2(g)} = 204,8$\\
+	
+	$\Delta S^0 = 1\cdot 204,8 + 2\cdot 248,5 - 2\cdot 252,6 = 196,6\; J/K$
+	
+\end{exercise}
+
+\section{Espontaneidad de las Reacciones Químicas}
+
+El Segundo Principio de la Termodinámica es insuficiente para determinar la espontaneidad de las reacciones químicas. Y esto es debido a que es muy difícil encontrar un sistema termodinámico que sea totalmente cerrado (de hecho en la práctica solo el universo lo es). Una reacción química generalmente se realiza en un vaso de precipitado abierto y a presión constante (la atmosférica). Por tanto se hace indispensable encontrar una magnitud que sea capaz de predecir la espontaneidad de las reacciones químicas en procesos isobáricos.\\
+
+Hemos visto en apartados previos que en una reacción química hay dos fuerzas impulsoras diferenciadas. Por una parte, se ve favorecido el sentido de la reacción en el que hay una disminución de entalpía de reactivos a productos, es decir, el sentido exotérmico, mientras que, por otra parte, se favorece el sentido de la reacción en el que hay un aumento de entropía, $\Delta S > 0$, es decir, un aumento del desorden. De ambos factores, $\Delta H$ y $\Delta S$, dependerá que una reacción química sea espontánea o no espontánea.\\
+
+\begin{definition}[Energía Libre de Gibbs]
+	Se define la \emph{Energía Libre de Gibbs (G)} como la diferencia entre la Entalpía y el producto de la Entropía por la temperatura. Matemáticamente:\\
+	\begin{center}
+		$G = H-T\cdot S$
+	\end{center}
+\end{definition}
+
+Fue introducida en la década de 1870 por el estadounidense \emph{Williard Gibbs (1839-1903)}, es una Función de Estado del Sistema y sus unidades en el SI son el J/mol.
+
+\subsection{Cálculo de Energías Libres de Gibbs}
+
+El cálculo de Energias Libre de Gibbs se puede realizar de dos maneras:\\
+
+\begin{enumerate}
+	\item  Conociendo las Entalpías y Entropías de una Reacción Química. En ese caso, a P y T constantes podemos afirmar que:
+	\begin{center}
+		$\Delta G = \Delta H -T \cdot \Delta S$
+	\end{center}
+
+	\item A partir de las Energías Libre de Gibbs de Formación Estándar, que se hayan tabuladas en los anexos puesto que esta magnitud es una Función de Estado del Sistema:
+	\begin{center}
+			$$\Delta G^0 = (\sum_{i=1}^{N} n_i \cdot \Delta G_f^0)_{Productos} - (\sum_{i=1}^{N} n_i \cdot \Delta G_f^0)_{Reactivos}$$
+	\end{center}
+		
+\end{enumerate}
+
+\subsection{Crtierio de Espontaneidad de las Reacciones Químicas}
+
+Puesto que la Energía Libre de Gibbs no es sino una medida del contenido energético de los compuestos químicos de una reacción, podemos estableces el siguiente criterio de espontaneidad general para reacciones a P constante:\\
+
+\begin{itemize}
+	\item \textbf{$\Delta G > 0 \longrightarrow$ Reacción No Espontánea}\\
+	\item \textbf{$\Delta G < 0 \longrightarrow$ Reacción Espontánea}\\
+	\item \textbf{$\Delta G = 0 \longrightarrow$ Condición de Equilibrio}
+\end{itemize}
+
+
+
+
+
+
+
+
