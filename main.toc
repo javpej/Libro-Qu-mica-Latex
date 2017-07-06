@@ -172,15 +172,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.11.2}Crtierio de Espontaneidad de las Reacciones Qu\IeC {\'\i }micas}{56}{subsection.3.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.12}Citation}{56}{section.3.12}
+\contentsline {section}{\numberline {3.12}Problemas}{57}{section.3.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.13}Lists}{56}{section.3.13}
+\contentsline {section}{\numberline {3.13}Citation}{57}{section.3.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.13.1}Numbered List}{57}{subsection.3.13.1}
+\contentsline {section}{\numberline {3.14}Lists}{57}{section.3.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.13.2}Bullet Points}{57}{subsection.3.13.2}
+\contentsline {subsection}{\numberline {3.14.1}Numbered List}{57}{subsection.3.14.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.13.3}Descriptions and Definitions}{57}{subsection.3.13.3}
+\contentsline {subsection}{\numberline {3.14.2}Bullet Points}{58}{subsection.3.14.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.14.3}Descriptions and Definitions}{58}{subsection.3.14.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}In-text Elements}{59}{chapter.4}
 \defcounter {refsection}{0}\relax 
